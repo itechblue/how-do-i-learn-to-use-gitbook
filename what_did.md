@@ -16,6 +16,6 @@ SUMMARY.md```
 确实有点莫名其妙。<br/>
 还去下载了编辑工具，[GitBook Editor](https://github.com/GitbookIO/editor/releases)。一开始竟然找不到，太白痴了，只能搜出来。
 ## 其它
-1.用GitBook Editor增加目录时用中文会有问题，但先是其它名字，再改回来就可以。
+1.用GitBook Editor增加目录时用中文会有问题，但先是其它名字，再改回来就可以。<br/>
 2.MarkDown换行还是靠< b r/ >
 
